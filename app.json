@@ -1,0 +1,7 @@
+{
+  "name": "bot",
+  "description": "searchy",
+  "repository": "https://github.com/SVR666/search-bot",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["telegram", "gdrive", "bot"]
+}
